@@ -40,8 +40,8 @@
 
 💼 **Business Experience**
 - Corporate finance & advisory for hedge funds and corporates
-- Media, entertainment & gaming industries
-
+- Art, media, entertainment & gaming/tech
+  
 ### ✿ Tech Garden ✿
 
 ```txt
@@ -53,7 +53,7 @@ Supporting artists in their creative journey
 
 <div align="center">
   
-★ [Sieve Page](https://getsieve.page) ⋆ [Portfolio](https://natalieminyu.com/) ⋆ [LinkedIn](https://www.linkedin.com/in/natalieminyu/) ⋆ [Instagram](https://instagram.com/natalieminyu) ★
+★ [Sieve Page](https://getsieve.page) ⋆ [Website](https://natalieminyu.com/) ⋆ [LinkedIn](https://www.linkedin.com/in/natalieminyu/) ⋆ [Instagram](https://instagram.com/natalieminyu) ★
 
 </div>
 
