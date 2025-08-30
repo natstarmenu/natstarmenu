@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](https://raw.githubusercontent.com/natstarmenu/natstarmenu/main/banner.png)
+![Banner](banner.jpg)
 
 # ✧˖° Greetings, I'm natstar 🎀 °˖✧
 
