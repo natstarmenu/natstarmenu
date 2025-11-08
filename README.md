@@ -24,12 +24,11 @@
 
 ```txt
 ⋆˙⟡♡ Founder @ Sieve Page - Empowering Artists to Thrive ♡⟡˙⋆
-🌊 Creating by the beach in Santa Monica 🌊
 ```
 
 ### ✧ Journey ✧
 
-🎨 **Art & Tech **
+🎨 **Art & Tech**
 - Traditional pastels → Digital art → Tech-enabled art
 - Currently exploring pottery projects ✿
 - Building [Sieve Page](https://getsieve.page) to help artists manage their work 💖
