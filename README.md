@@ -12,15 +12,16 @@
 ```
 ### About Me
 
-Founder, Etoile Foundry, Inc.
+Technical Founder, Etoile Foundry, Inc.
 
 ```txt
-⋆˙⟡♡ Mission: Building modern infrastructure for media businesses ♡⟡˙⋆
+⋆˙⟡♡ Mission: Building infrastructure for creative work in the agent-led web ♡⟡˙⋆
 ```
 ### ✧ Building ✧
 
 - A shareable workflow platform for creator commissions
-- AI trust infrastructure for media
+- Proof of human work: verifying that a person made a piece of creative work
+- Bot and AI-scraper protection for artists' work
 
 ### ✧ Journey ✧
 
@@ -29,15 +30,15 @@ Founder, Etoile Foundry, Inc.
 - Commissions and exhibitions: Oculus WTC (VR), Miami Art Week (AR), hacker house showcases
 
 📊 **Quant Background**
-- BA in Economics @ NYU; minor in Web Programming & Applications
 - Built debt models & waterfall recovery models for restructuring & litigation
 - Operational Sybil resistance and MEV mitigation across primary & secondary markets
 
 💼 **Business Experience**
 - Corporate finance & advisory for hedge funds and distressed companies
 - IP acquisition & monetization at Lionsgate Motion Pictures and HarperCollins
-  
 
+🎓 **Education**
+- BA in Economics @ NYU; minor in Web Programming & Applications
 
 <br>
 
