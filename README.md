@@ -20,7 +20,7 @@ Technical Founder, Etoile Foundry, Inc.
 ### ✧ Building ✧
 
 - A shareable workflow platform for creator commissions
-- Proof of human work for creative media
+- Proof of human work
 - Bot and AI-scraper protection for artists
 
 ### ✧ Journey ✧
